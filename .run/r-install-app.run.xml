@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="r-install-app" type="js.build_tools.npm" folderName="client">
+    <package-json value="$PROJECT_DIR$/../galio.app/package.json" />
+    <command value="run" />
+    <scripts>
+      <script value="r-install" />
+    </scripts>
+    <node-interpreter value="project" />
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>

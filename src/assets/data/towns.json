@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Douala"
+  },
+  {
+    "id": 2,
+    "name": "Yaoundé"
+  },
+  {
+    "id": 3,
+    "name": "Garoua"
+  },
+  {
+    "id": 4,
+    "name": "Bamenda"
+  },
+  {
+    "id": 5,
+    "name": "Maroua"
+  },
+  {
+    "id": 6,
+    "name": "Nkongsamba"
+  },
+  {
+    "id": 7,
+    "name": "Bafoussam"
+  },
+  {
+    "id": 8,
+    "name": "Ngaoundéré"
+  },
+  {
+    "id": 9,
+    "name": "Bertoua"
+  },
+  {
+    "id": 10,
+    "name": "Loum"
+  },
+  {
+    "id": 11,
+    "name": "Kumba"
+  },
+  {
+    "id": 12,
+    "name": "Edéa"
+  },
+  {
+    "id": 13,
+    "name": "Kumbo"
+  },
+  {
+    "id": 14,
+    "name": "Foumban"
+  },
+  {
+    "id": 15,
+    "name": "Mbouda"
+  },
+  {
+    "id": 16,
+    "name": "Dschang"
+  },
+  {
+    "id": 17,
+    "name": "Limbé"
+  },
+  {
+    "id": 18,
+    "name": "Ebolowa"
+  },
+  {
+    "id": 19,
+    "name": "Kousséri"
+  },
+  {
+    "id": 20,
+    "name": "Guider"
+  },
+  {
+    "id": 21,
+    "name": "Meiganga"
+  },
+  {
+    "id": 22,
+    "name": "Yagoua"
+  },
+  {
+    "id": 23,
+    "name": "Mbalmayo"
+  },
+  {
+    "id": 24,
+    "name": "Bafang"
+  },
+  {
+    "id": 25,
+    "name": "Tiko"
+  },
+  {
+    "id": 26,
+    "name": "Bafia"
+  },
+  {
+    "id": 27,
+    "name": "Wum"
+  },
+  {
+    "id": 28,
+    "name": "Kribi"
+  },
+  {
+    "id": 29,
+    "name": "Buea"
+  },
+  {
+    "id": 30,
+    "name": "Sangmélima"
+  },
+  {
+    "id": 31,
+    "name": "Foumbot"
+  },
+  {
+    "id": 32,
+    "name": "Bangangté"
+  },
+  {
+    "id": 33,
+    "name": "Batouri"
+  },
+  {
+    "id": 34,
+    "name": "Banyo"
+  },
+  {
+    "id": 35,
+    "name": "Nkambé"
+  },
+  {
+    "id": 36,
+    "name": "Bali"
+  },
+  {
+    "id": 37,
+    "name": "Mbanga"
+  },
+  {
+    "id": 38,
+    "name": "Mokolo"
+  },
+  {
+    "id": 38,
+    "name": "Melong"
+  },
+  {
+    "id": 40,
+    "name": "Manjo"
+  },
+  {
+    "id": 41,
+    "name": "Garoua-Boulaï"
+  },
+  {
+    "id": 42,
+    "name": "Mora"
+  },
+  {
+    "id": 43,
+    "name": "Kaélé"
+  },
+  {
+    "id": 44,
+    "name": "Tibati"
+  },
+  {
+    "id": 45,
+    "name": "Ndop"
+  },
+  {
+    "id": 46,
+    "name": "Akonolinga"
+  },
+  {
+    "id": 47,
+    "name": "Eséka"
+  },
+  {
+    "id": 48,
+    "name": "Mamfé"
+  },
+  {
+    "id": 49,
+    "name": "Obala"
+  },
+  {
+    "id": 50,
+    "name": "Muyuka"
+  },
+  {
+    "id": 50,
+    "name": "Nanga-Eboko"
+  },
+  {
+    "id": 52,
+    "name": "Abong-Mbang"
+  },
+  {
+    "id": 53,
+    "name": "Fundong"
+  },
+  {
+    "id": 54,
+    "name": "Nkoteng"
+  },
+  {
+    "id": 55,
+    "name": "Fontem"
+  },
+  {
+    "id": 56,
+    "name": "Mbandjock"
+  },
+  {
+    "id": 57,
+    "name": "Touboro"
+  },
+  {
+    "id": 58,
+    "name": "Ngaoundal"
+  },
+  {
+    "id": 58,
+    "name": "Yokadouma"
+  },
+  {
+    "id": 60,
+    "name": "Pitoa"
+  },
+  {
+    "id": 61,
+    "name": "Tombel"
+  },
+  {
+    "id": 62,
+    "name": "Kékem"
+  },
+  {
+    "id": 63,
+    "name": "Magba"
+  },
+  {
+    "id": 64,
+    "name": "Bélabo"
+  },
+  {
+    "id": 65,
+    "name": "Tonga"
+  },
+  {
+    "id": 66,
+    "name": "Maga"
+  },
+  {
+    "id": 67,
+    "name": "Koutaba"
+  },
+  {
+    "id": 68,
+    "name": "Blangoua"
+  },
+  {
+    "id": 69,
+    "name": "Guidiguis"
+  },
+  {
+    "id": 70,
+    "name": "Bogo"
+  },
+  {
+    "id": 71,
+    "name": "Batibo"
+  },
+  {
+    "id": 71,
+    "name": "Yabassi"
+  },
+  {
+    "id": 73,
+    "name": "Figuil"
+  },
+  {
+    "id": 74,
+    "name": "Makénéné"
+  },
+  {
+    "id": 75,
+    "name": "Gazawa"
+  },
+  {
+    "id": 76,
+    "name": "Tcholliré"
+  }
+]
